@@ -13,4 +13,14 @@ To utilize my knowledge and ideas in this field of machine learning, web develop
 - [Deep Learning](https://github.com/Chaitanya0909/Deep-Learning.git)
 
 ### 🎯 Skills
-Python Images/Python-Symbol.png
+- Programming Skills : Python
+                     | R Studio
+                     | MySQL
+                     | ChatGPT
+                     | Azure
+                     | Power BI
+                     | Qliksense
+                     | Tableau
+
+- Algorithms : Machine Learning
+             | Deep Learning
