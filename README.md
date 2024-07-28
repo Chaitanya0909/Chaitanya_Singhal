@@ -2,7 +2,7 @@
 
 #### Data Scientist | Developer 
 
-To utilize my knowledge and ideas in this field of machine learning, web development and embedded system toward the smooth functioning of organization, I realised that, satisfaction is a book of achievement, which holds the learning experience records of doing. trying, twiddling, getting failed, trying again and finally succeeding in the project.
+To utilize my knowledge and ideas in this field of machine learning and embedded system toward the smooth functioning of organization, I realised that, satisfaction is a book of achievement, which holds the learning experience records of doing. trying, twiddling, getting failed, trying again and finally succeeding in the project.
 
 ### 🔗 Reach me on
 - My profile in [Linkedin](https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin) 
