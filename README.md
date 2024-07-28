@@ -24,3 +24,8 @@ To utilize my knowledge and ideas in this field of machine learning, web develop
 
 - Algorithms : Machine Learning
              | Deep Learning
+
+### 🎓 Certifications
+- Python for Data Science, AI and Development
+- Post Graduate Program in Data Analytics
+- Intro to SQL : Querying and Managing data
