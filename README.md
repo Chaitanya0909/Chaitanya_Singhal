@@ -8,12 +8,6 @@ To utilize my knowledge and ideas in this field of machine learning, web develop
 - My profile in [Linkedin](https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin) 
 - My contribution in Data Science in [Kaggle](https://www.kaggle.com/chaitanya0909)
 
-My Github stats
-
-### Work Experience
-Data Analyst @ Team Computers Pvt Ltd.
--  big impact project 1!
--  big impact project 2!
-
-### Projects
-GFL
+### 👩🏻‍💻 Important Projects
+- [Machine Learning](https://github.com/Chaitanya0909/Machine-Learning.git)
+- [Deep Learning](https://github.com/Chaitanya0909/Deep-Learning.git)
