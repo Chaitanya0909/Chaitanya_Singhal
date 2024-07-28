@@ -13,4 +13,4 @@ To utilize my knowledge and ideas in this field of machine learning, web develop
 - [Deep Learning](https://github.com/Chaitanya0909/Deep-Learning.git)
 
 ### 🎯 Skills
-Python https://learnersgalaxy.ai/wp-content/uploads/2024/01/Python-Symbol.png
+Python Images/Python-Symbol.png
